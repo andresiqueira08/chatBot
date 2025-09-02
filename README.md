@@ -7,7 +7,7 @@ O projeto do chatbot está sendo desenvolvido para auxiliar estudantes e funcion
 
 O desenvolvimento seguirá a metodologia Kanban, incorporando práticas do Scrum para garantir uma gestão ágil e colaborativa. As tarefas serão organizadas e acompanhadas no quadro do Trello, permitindo uma melhor visualização do progresso e distribuição das responsabilidades.
 
-<a href = "https://trello.com/b/lo33RGqf/chat-bot-unicap" target="_blank"><u>Qadro do Trello</u></a>
+<a href = "https://trello.com/b/lo33RGqf/chat-bot-unicap" target="_blank"><u>Quadro do Trello</u></a>
 
 ## 👩‍💻 Equipe
 

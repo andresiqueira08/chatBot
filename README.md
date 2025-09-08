@@ -11,10 +11,11 @@ O desenvolvimento seguirá a metodologia Kanban, incorporando práticas do Scrum
 
 ## 👩‍💻 Equipe
 
-Product Owner : <a href = "www.linkedin.com/in/andré-siqueira08" target= "_blank"><u>André Siqueira</u></a> <br>
-Scrum master : <a href = "[www.linkedin.com/in/andré-siqueira08](https://www.linkedin.com/in/guilherme-marques-a2ab512b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target= "_blank"><u>Guilherme Marques</u></a> <br>
-Devs: <br> 
-     <a href = "[www.linkedin.com/in/andré-siqueira08](https://www.linkedin.com/in/jo%C3%A3o-gabriel-coutinho-g-moura-7b7981196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target= "_blank"><u>João Gabriel Coutinho</u></a> <br>
-     <a href = "[www.linkedin.com/in/andré-siqueira08](https://www.linkedin.com/in/jo%C3%A3o-marcos-pessoa-silva-99a76930a?trk=contact-info)" target= "_blank"><u>João Marcos</u></a> <br>
+Product Owner: <a href="https://www.linkedin.com/in/andré-siqueira08" target="_blank"><u>André Siqueira</u></a> <br>
+Scrum master: <a href="https://www.linkedin.com/in/guilherme-marques-a2ab512b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><u>Guilherme Marques</u></a> <br>
+Devs: <br>
+   <a href="https://www.linkedin.com/in/joão-gabriel-coutinho-g-moura-7b7981196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><u>João Gabriel Coutinho</u></a> <br>
+   <a href="https://www.linkedin.com/in/joão-marcos-pessoa-silva-99a76930a?trk=contact-info" target="_blank"><u>João Marcos</u></a> <br>
+
   
 

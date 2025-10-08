@@ -3,6 +3,8 @@
 
 O projeto do chatbot está sendo desenvolvido para auxiliar estudantes e funcionários, oferecendo um atendimento ágil e humanizado. Sua principal função é responder às dúvidas mais frequentes por meio de palavras-chave, melhorando a qualidade do suporte prestado pela instituição e reduzindo a carga de trabalho da equipe administrativa.
 
+Veja o vídeo explicativo do nosso projeto junto do protótipo feito no figma: <a href = "https://www.youtube.com/watch?v=rxnNdBebM4Q" target="_blank"><u>Clique aqui</u></a>
+
 ## ⌛ Organização do projeto 
 
 O desenvolvimento seguirá a metodologia scrum para garantir uma gestão ágil e colaborativa. As tarefas serão organizadas e acompanhadas no quadro do Trello, permitindo uma melhor visualização do progresso e distribuição das responsabilidades.

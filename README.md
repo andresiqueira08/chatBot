@@ -2,6 +2,7 @@
 <img src="https://img.freepik.com/vetores-gratis/graident-ai-robot-vectorart-em-ingles_78370-4114.jpg?semt=ais_hybrid&w=740&q=80" alt="Logo do projeto" width="250" style="border-radius: 15px;">
 
 O projeto do chatbot está sendo desenvolvido para auxiliar estudantes e funcionários, oferecendo um atendimento ágil e humanizado. Sua principal função é responder às dúvidas mais frequentes por meio de palavras-chave, melhorando a qualidade do suporte prestado pela instituição e reduzindo a carga de trabalho da equipe administrativa.
+Para deixar o chat bot mais inteligente, mais ágil e mais versátil, será usado a implementação de um agente IA. Por meio da ferramenta do google, diaglflow, vamos treinar o nosso agente para deixa-lo afiado, assim, garantindo mais dúvidas sendo respondidas.
 
 Veja o vídeo explicativo do nosso projeto junto do protótipo feito no figma: <a href = "https://www.youtube.com/watch?v=rxnNdBebM4Q" target="_blank"><u>Clique aqui</u></a>
 

@@ -57,7 +57,7 @@ INSERT INTO respostas (id, resposta) VALUES
 (5, 'chat bot de atendimento da UNICAP. Para realizar sua matrícula entre no link a seguir: https://portal.unicap.br/matricula'),
 (6, 'chat bot de atendimento da UNICAP. Você pode entrar no portal educacional → secretaria → requerimentos → reabertura de matrícula. Assim você abre o requerimento para reabrir sua matrícula.'),
 (7,'chat bot de atendimento da UNICAP. Para consultar o calendário você pode acessar o portal do aluno e entrar na aba “Calendário” e verificar as datas necessárias.'),
-(8, 'chat bot de atendimento da UNICAP. Para cosnsultar as datas do período letivo 2025.2, acesse o portal do aluno e entre na aba "Calendário".'),
+(8, 'Para cosnsultar as datas do período letivo 2025.2, acesse o portal do aluno e entre na aba "Calendário".'),
 (9, 'chat bot de atendimento da UNICAP. Para consultar o Início das aulas, você pode entrar no portal do aluno e entrar na aba “Calendário” e verificar a data de início.'),
 (10, 'chat bot de atendimento da UNICAP. Para consultar os feriados, você pode acessar o portal do aluno e entrar na aba “Calendário” e verificar as datas que vão acontecer os feriados.'),
 (11, 'chat bot de atendimento da UNICAP. Você pode entrar no portal educacional → secretaria → requerimentos → trancamento de matrícula. Assim você abre o requerimento para trancar sua matrícula.'),
@@ -66,6 +66,8 @@ INSERT INTO respostas (id, resposta) VALUES
 (14, 'chat bot de atendimento da UNICAP. Você pode consultar e verificar opções de bolsas e/ou descontos na sua mensalidade consultando a tesouraria pelo número (81) 2119-4149.'),
 (15, 'chat bot de atendimento da UNICAP. Você pode entrar no portal educacional → financeiro → boletos. Assim você abre a segunda via de boleto.'),
 (16, 'chat bot de atendimento da UNICAP. Você pode consultar a secretaria pelos seguintes números:                                                          (81) 2119 - 4124                                                                                            (81) 2119 - 4188                                                                                               (81) 2119 - 4175                                                                                                            (81) 2119 - 4120                                                                                                   (81) 2119 - 4410 .');
+
+
 -- Ligando palavras às respostas
 INSERT INTO palavraResposta (id_palavra, id_resposta) VALUES 
 (1, 1),

@@ -19,6 +19,8 @@ Scrum master: <a href="https://www.linkedin.com/in/guilherme-marques-a2ab512b3?u
 Devs: <br>
    <a href="https://www.linkedin.com/in/joão-gabriel-coutinho-g-moura-7b7981196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><u>João Gabriel Coutinho</u></a> <br>
    <a href="https://www.linkedin.com/in/joão-marcos-pessoa-silva-99a76930a?trk=contact-info" target="_blank"><u>João Marcos</u></a> <br>
+Issue:
+<img width="1874" height="1276" alt="image" src="https://github.com/user-attachments/assets/0c4c4a7e-2e5d-4a8e-93c0-8a8226242d0d" />
 
   
 

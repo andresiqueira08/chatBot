@@ -22,7 +22,8 @@ Devs: <br>
    <br>
    <br>
 Issue:
-<img width="1874" height="1276" alt="image" src="https://github.com/user-attachments/assets/0c4c4a7e-2e5d-4a8e-93c0-8a8226242d0d" />
+<img width="1283" height="785" alt="image" src="https://github.com/user-attachments/assets/078641f2-3aad-4630-9ae3-36455022cdcf" />
+
  <br>
  <br>
  ## Programação em Par
@@ -31,6 +32,7 @@ Mesmo sendo um grupo de quatro pessoas, organizamos o trabalho de forma colabora
 Em várias etapas, utilizamos ferramentas como VS Code Live Share e repositório GitHub, o que permitiu o trabalho simultâneo em um mesmo arquivo. Essa prática comprovou o uso efetivo da programação em par e garantiu qualidade no código.
 Essa metodologia fortaleceu a comunicação e o aprendizado coletivo: todos puderam aprender uns com os outros, compreender diferentes lógicas de raciocínio e desenvolver habilidades de trabalho em equipe — competências essenciais em projetos reais de software.
 O principal benefício percebido foi o ganho de qualidade e entendimento do projeto, pois cada decisão técnica passou por discussão e validação conjunta, tornando o desenvolvimento mais consistente e colaborativo.
+<br>
 <img width="304" height="530" alt="image" src="https://github.com/user-attachments/assets/6393872b-58ab-4e11-93fc-07e986c7a76d" />
 
 

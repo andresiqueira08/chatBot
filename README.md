@@ -30,7 +30,9 @@ Issue:
 Mesmo sendo um grupo de quatro pessoas, organizamos o trabalho de forma colaborativa: as tarefas foram divididas em partes, mas sempre com revisão cruzada e acompanhamento direto entre os membros. Por exemplo, enquanto um integrante implementava uma intent ou testava o chatbot, outro acompanhava o processo, sugerindo ajustes e identificando possíveis falhas.
 Em várias etapas, utilizamos ferramentas como VS Code Live Share e repositório GitHub, o que permitiu o trabalho simultâneo em um mesmo arquivo. Essa prática comprovou o uso efetivo da programação em par e garantiu qualidade no código.
 Essa metodologia fortaleceu a comunicação e o aprendizado coletivo: todos puderam aprender uns com os outros, compreender diferentes lógicas de raciocínio e desenvolver habilidades de trabalho em equipe — competências essenciais em projetos reais de software.
-O principal benefício percebido foi o ganho de qualidade e entendimento do projeto, pois cada decisão técnica passou por discussão e validação conjunta, tornando o desenvolvimento mais consistente e colaborativo.]
+O principal benefício percebido foi o ganho de qualidade e entendimento do projeto, pois cada decisão técnica passou por discussão e validação conjunta, tornando o desenvolvimento mais consistente e colaborativo.
+<img width="304" height="530" alt="image" src="https://github.com/user-attachments/assets/6393872b-58ab-4e11-93fc-07e986c7a76d" />
+
 
 
 

@@ -26,6 +26,7 @@ Issue:
 
  <br>
  <br>
+ 
  ## Programação em Par
  Durante o desenvolvimento do projeto, aplicamos a metodologia de programação em par, uma prática na qual dois ou mais integrantes trabalham juntos no mesmo código ou configuração, alternando entre os papéis de quem escreve e quem revisa.
 Mesmo sendo um grupo de quatro pessoas, organizamos o trabalho de forma colaborativa: as tarefas foram divididas em partes, mas sempre com revisão cruzada e acompanhamento direto entre os membros. Por exemplo, enquanto um integrante implementava uma intent ou testava o chatbot, outro acompanhava o processo, sugerindo ajustes e identificando possíveis falhas.

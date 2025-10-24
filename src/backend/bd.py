@@ -4,7 +4,7 @@ def conectar():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="senha do workbench",
+        password="senha workbench",
         database="chatBot"
     )
 

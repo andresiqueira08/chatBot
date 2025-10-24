@@ -1,19 +1,19 @@
-from google.cloud import dialogflow_v2 as dialogflow
 import os
-from dotenv import load_dotenv
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"caminho"
 
-load_dotenv()
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "chave-dialogflow.json"
+from google.cloud import dialogflow_v2 as dialogflow
 
-def detectar_intencao(project_id, session_id, texto, linguagem="pt-BR"):
-    client = dialogflow.SessionsClient()
-    session = client.session_path(project_id, session_id)
+def detectar_intencao(project_id, session_id, text, language_code):
+    session_client = dialogflow.SessionsClient()
+    session = session_client.session_path(project_id, session_id)
 
-    texto_input = dialogflow.types.TextInput(text=texto, language_code=linguagem)
-    query_input = dialogflow.types.QueryInput(text=texto_input)
-    response = client.detect_intent(session=session, query_input=query_input)
+    text_input = dialogflow.TextInput(text=text, language_code=language_code)
+    query_input = dialogflow.QueryInput(text=text_input)
 
-    return {
-        "intencao": response.query_result.intent.display_name,
-        "resposta": response.query_result.fulfillment_text
-    }
+    response = session_client.detect_intent(request={"session": session, "query_input": query_input})
+
+    print("Texto:", response.query_result.query_text)
+    print("Intenção:", response.query_result.intent.display_name)
+    print("Resposta:", response.query_result.fulfillment_text)
+
+    return response.query_result

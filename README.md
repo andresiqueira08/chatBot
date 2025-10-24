@@ -39,6 +39,8 @@ O principal benefício percebido foi o ganho de qualidade e entendimento do proj
 <br>
 <img width="304" height="530" alt="image" src="https://github.com/user-attachments/assets/6393872b-58ab-4e11-93fc-07e986c7a76d" />
 
+Veja o vídeo explicativo do nosso projeto e o prototipo pelo dialog flow: <a href = "https://www.youtube.com/watch?v=Hf5HUnCUDYs><u>Clique aqui</u></a>
+
 
 
 

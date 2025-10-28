@@ -7,6 +7,7 @@ Para deixar o chat bot mais inteligente, mais ágil e mais versátil, será usad
 Veja o vídeo explicativo do nosso projeto junto do protótipo feito no figma: <a href = "https://www.youtube.com/watch?v=rxnNdBebM4Q" target="_blank"><u>Clique aqui</u></a>
 <br>
 Veja o vídeo da implementação do nosso projeto no dialogflow: <a href = "https://www.youtube.com/watch?v=Hf5HUnCUDYs" target="_blank"<u>Clique aqui</u></a>
+<br>
 Dê uma olhada no diagrama de atividades: 
 <img width="932" height="646" alt="image" src="https://github.com/user-attachments/assets/e298c4c8-5862-4b2d-9511-5496e36cf635" />
 
